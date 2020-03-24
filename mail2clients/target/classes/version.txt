@@ -1,5 +1,0 @@
-{
-"version":"1.0-SNAPSHOT",
-"build_date":"${timestamp}",
-"revision":"${build.number}"
-}
